@@ -20,21 +20,21 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan worden geb
 
 ## Inhoudsopgave
 
-Hoofdstuk 1: De benodigde software downloaden (pagina 3-4)
+Hoofdstuk 1: De benodigde software downloaden 
 
-Hoofdstuk 2: Een omgeving maken (pagina 5)
+Hoofdstuk 2: Een omgeving maken 
 
-hoofdstuk 3: De benodigde plug-ins downloaden (pagina 6)
+hoofdstuk 3: De benodigde plug-ins downloaden 
 
-hoofdstuk 4: Een Jupyter-notebookbestand maken in Visual studio code (pagina 7)
+hoofdstuk 4: Een Jupyter-notebookbestand maken in Visual studio code 
 
-hoofdstuk 5: Aansluiten en testen (pagina 8-9)
+hoofdstuk 5: Aansluiten en testen 
 
-hoofdstuk 6: Bekende installatieproblemen en hoe te debuggen (pagina 10)
+hoofdstuk 6: Bekende installatieproblemen en hoe te debuggen 
 
 &nbsp; 
 
-## De benodigde software downloaden:
+## Hoofdstuk 1: De benodigde software downloaden:
 (Belangrijk!) Download eerst Anaconda en installeer de software vanuit het gedownloade .exe-bestand, voordat je verder gaat met Visual studio code.
 
 &nbsp;
@@ -48,7 +48,7 @@ Klik op de download van het besturingssysteem van je laptop, zoals Windows.
 
 &nbsp;
 
-Zoek de gedownloade set-up in kwestie en dubbelklik erop om de toepassing toe te voegen aan je computer.
+Zoek de gedownloade set-up in kwestie die in jouw mapjes zit bij downloads en dubbelklik erop om de toepassing toe te voegen aan je computer.
 ![alt text](image-1.png)
 
 &nbsp;
@@ -66,9 +66,43 @@ Klik op de download van het besturingssysteem van je laptop, zoals Windows.
 
 &nbsp;
 
-Zoek de gedownloade set-up in kwestie en dubbelklik erop om de toepassing toe te voegen aan je computer.
+Zoek de gedownloade set-up in kwestie die in jouw mapjes zit bij downloads en dubbelklik erop om de toepassing toe te voegen aan je computer.
 ![alt text](image-3.png)
 
 &nbsp;
 
 Volg de instructies die Visual studio code geeft en verander de standaardaanbevelingen niet, de standaardinstellingen zijn voorlopig goed.
+
+&nbsp;
+
+## Hoofdstuk 2: Een omgeving maken:
+
+&nbsp;
+
+Selecteer eerst het tabblad Omgeving en klik linksonder op Maak.
+![alt text](image-4.png)
+
+&nbsp;
+
+Selecteer Python als dat nog niet het geval is en geef de omgeving een passende naam. Als je klaar bent, klik je rechtsonder op create.
+![alt text](image-5.png)
+
+&nbsp;
+
+## Hoofdstuk 3: De vereiste plug-ins downloaden:
+
+&nbsp;
+
+Voor Visual Studio code installeer je de Python en jupyter plug-ins.
+
+Je kunt ze vinden door op het pictogram van 4squares linksboven te klikken en de naam van de plug-in op te zoeken. Je hoeft alleen de hoofdplug-in te installeren, de rest wordt standaard geïnstalleerd.
+![alt text](image-6.png)
+
+&nbsp;
+
+Op de startpagina van Anaconda's software applicatie download je de volgende plug-ins: Jupyter Notebook, Jupyter Lab en QT Console.
+![alt text](image-7.png)
+
+&nbsp;
+
+## Hoofdstuk 4: Creating a Jupyter notebook file in Visual studio code:
