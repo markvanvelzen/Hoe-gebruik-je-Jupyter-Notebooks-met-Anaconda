@@ -57,7 +57,7 @@ Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen nie
 
 &nbsp;
 
-### Visual studio code download: Download Visual Studio Code - Mac, Linux, Windows
+### Visual studio code download: https://code.visualstudio.com/download
 
 &nbsp;
 
