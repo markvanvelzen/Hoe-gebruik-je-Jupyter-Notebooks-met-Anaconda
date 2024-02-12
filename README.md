@@ -44,16 +44,20 @@ hoofdstuk 6: Bekende installatieproblemen en hoe te debuggen
 &nbsp;
 
 Klik op de download van het besturingssysteem van je laptop, zoals Windows.
+
 ![alt text](image.png)
 
 &nbsp;
 
 Zoek de gedownloade set-up in kwestie die in jouw mapjes zit bij downloads en dubbelklik erop om de toepassing toe te voegen aan je computer.
+
 ![alt text](image-1.png)
 
 &nbsp;
 
 Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen niet, de standaardinstellingen zijn voorlopig goed.
+
+![alt text](image-8.png)
 
 &nbsp;
 
@@ -62,11 +66,13 @@ Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen nie
 &nbsp;
 
 Klik op de download van het besturingssysteem van je laptop, zoals Windows.
+
 ![alt text](image-2.png)
 
 &nbsp;
 
 Zoek de gedownloade set-up in kwestie die in jouw mapjes zit bij downloads en dubbelklik erop om de toepassing toe te voegen aan je computer.
+
 ![alt text](image-3.png)
 
 &nbsp;
@@ -80,29 +86,137 @@ Volg de instructies die Visual studio code geeft en verander de standaardaanbeve
 &nbsp;
 
 Selecteer eerst het tabblad Omgeving en klik linksonder op Maak.
+
 ![alt text](image-4.png)
 
 &nbsp;
 
 Selecteer Python als dat nog niet het geval is en geef de omgeving een passende naam. Als je klaar bent, klik je rechtsonder op create.
+
 ![alt text](image-5.png)
 
 &nbsp;
 
-## Hoofdstuk 3: De vereiste plug-ins downloaden:
+## Hoofdstuk 3: De benodigde plug-ins downloaden:
 
 &nbsp;
 
 Voor Visual Studio code installeer je de Python en jupyter plug-ins.
 
 Je kunt ze vinden door op het pictogram van 4squares linksboven te klikken en de naam van de plug-in op te zoeken. Je hoeft alleen de hoofdplug-in te installeren, de rest wordt standaard geïnstalleerd.
+
 ![alt text](image-6.png)
 
 &nbsp;
 
 Op de startpagina van Anaconda's software applicatie download je de volgende plug-ins: Jupyter Notebook, Jupyter Lab en QT Console.
+
 ![alt text](image-7.png)
 
 &nbsp;
 
-## Hoofdstuk 4: Creating a Jupyter notebook file in Visual studio code:
+## Hoofdstuk 4: Een Jupyter-notebookbestand maken in Visual studio code:
+
+&nbsp;
+
+Ga naar bestand en klik op nieuw bestand.
+
+![alt text](image-9.png)
+
+&nbsp;
+
+Dit opent een prompt Selecteer Jupyter Notebook op.
+
+![alt text](image-10.png)
+
+&nbsp;
+
+Als je je bestand wilt opslaan, doe je het volgende: 
+
+ga naar bestand > opslaan als > voer een naam en bestandslocatie naar keuze in.
+
+Als je opslaat moet het bestandstype .ipynb zijn, de computer moet dit voor je doen.
+
+![alt text](image-11.png)
+
+&nbsp;
+
+## Hoofdstuk 5: Aansluiten en testen:
+
+&nbsp;
+
+Schrijf deze code als een functionaliteitstest.
+
+![alt text](image-12.png)
+
+&nbsp;
+
+gebruik de opdracht: ctrl > shift > P in Visual studio code typ dan Python: Selecteer tolk/interperter:
+
+![alt text](image-13.png)
+
+&nbsp;
+
+Selecteer in de nieuwe prompt de omgeving die je eerder hebt gemaakt.
+
+![alt text](image-14.png)
+
+&nbsp;
+
+Je hebt een open terminal nodig om te testen of je omgeving verbonden is.
+
+Als je geen terminal open hebt staan, kun je een terminal openen door linksboven op Terminal te gaan staan en op Nieuwe Terminal te klikken:
+
+![alt text](image-15.png)
+
+&nbsp;
+
+Nu kun je de juiste opdrachtprompt openen door naar de rechteronderkant te gaan, over het pijltje naast de + te gaan en op "Opdrachtprompt" te klikken.
+
+![alt text](image-16.png)
+
+&nbsp;
+
+Als je verbonden bent met je omgeving, zie je de naam links onderaan de opdrachtprompt, gevolgd door de pathing naar de bestanden.
+
+![alt text](image-17.png)
+
+&nbsp;
+
+## hoofdstuk 6: Bekende installatieproblemen en hoe te debuggen:
+
+&nbsp;
+
+Probleem 1: 
+In sommige gevallen moet je Python installeren in de Microsoft store om een omgeving te kunnen selecteren in Visual studio code.
+
+![alt text](image-18.png)
+
+&nbsp;
+
+Probleem 2:
+Soms toont de terminal je omgeving niet op deze manier:
+
+![alt text](image-17.png)
+
+&nbsp;
+
+In dit geval moet de Kernel worden gewijzigd in de omgeving, om de terminal aan je omgeving te koppelen.
+
+Ga met de muis over Kernel en klik op "Selecteer een andere kernel...".
+
+![alt text](image-19.png)
+
+&nbsp;
+
+Selecteer Python-omgevingen.
+
+![alt text](image-20.png)
+
+&nbsp;
+
+Selecteer nu je omgeving.
+
+![alt text](image-21.png)
+
+&nbsp;
