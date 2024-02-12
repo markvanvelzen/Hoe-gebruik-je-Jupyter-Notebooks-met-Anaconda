@@ -79,6 +79,8 @@ Zoek de gedownloade set-up in kwestie die in jouw mapjes zit bij downloads en du
 
 Volg de instructies die Visual studio code geeft en verander de standaardaanbevelingen niet, de standaardinstellingen zijn voorlopig goed.
 
+![alt text](image-22.png)
+
 &nbsp;
 
 ## Hoofdstuk 2: Een omgeving maken:
