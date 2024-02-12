@@ -41,11 +41,17 @@ hoofdstuk 6: Bekende installatieproblemen en hoe te debuggen (pagina 10)
 
 ### Anaconda Download link: https://www.anaconda.com/download/
 
+&nbsp;
+
 Klik op de download van het besturingssysteem van je laptop, zoals Windows.
 ![alt text](image.png)
 
+&nbsp;
+
 Zoek de gedownloade set-up in kwestie en dubbelklik erop om de toepassing toe te voegen aan je computer.
 ![alt text](image-1.png)
+
+&nbsp;
 
 Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen niet, de standaardinstellingen zijn voorlopig goed.
 
@@ -53,10 +59,16 @@ Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen nie
 
 ### Visual studio code download: Download Visual Studio Code - Mac, Linux, Windows
 
+&nbsp;
+
 Klik op de download van het besturingssysteem van je laptop, zoals Windows.
 ![alt text](image-2.png)
 
+&nbsp;
+
 Zoek de gedownloade set-up in kwestie en dubbelklik erop om de toepassing toe te voegen aan je computer.
 ![alt text](image-3.png)
+
+&nbsp;
 
 Volg de instructies die Visual studio code geeft en verander de standaardaanbevelingen niet, de standaardinstellingen zijn voorlopig goed.
