@@ -1,3 +1,3 @@
 # Anaconda_Uitleg
 
-hier wordt uitgelegt hoe je Anaconda kan gebruiken in de IDE van Visual studio code.
+Hier wordt uitgelegt hoe je Jupyter notebooks gebruikt in de IDE van Visual studio code en hoe je deze linkt aan een environment van Anaconda.
