@@ -1,6 +1,6 @@
 # Hoe gebruik je Jupyter Notebooks met Anaconda?
 
-Hier wordt uitgelegt hoe je Jupyter Notebooks gebruikt in de IDE van Visual studio code en hoe je deze linkt aan een environment van Anaconda.
+Hier wordt uitgelegt hoe je Jupyter Notebooks gebruikt in de IDE van Visual studio code en hoe je deze linkt aan een environment/omgeving van Anaconda.
 
 
 &nbsp;
@@ -15,6 +15,23 @@ Met het programma Anaconda kun je omgevingen maken die je softwarepakketten kunn
 Jupyter-notebooks zijn een vorm van universeel delen van data science-concepten, waarmee je live code kunt delen.
 
 Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt worden als gebruikersinterface, waardoor het praktischer in het gebruik is.
+
+&nbsp;
+
+## begrippenlijst
+
+&nbsp;
+
+### je kan hier op terug kijken als je worden niet begrijpt.
+
+&nbsp;
+
+(Anaconda) een progamma waar je paketjes kan toevoegen aan folders die jij aan maakt, deze folders kan jij vervolgens aan IDE's verbinden zoals Visual Studio code het is dan ook mogelijk om via de command prompt in Visual studio code pakketjes te downloaden in jouw Anaconda omgeving/environment.
+
+(Een Anaconda omgeving/environment) dit is een folder met een bepaalde naam die je maakt binenn de aplicatie Anaconda, Anaconda vult jouw folder met was basis paketjes van code zoals Python en Pip wanneer jouw jouw IDE de paketjes nodig heeft kan die ze lenen van Anaconda's folder.
+
+(Visual studio code / IDE) een IDE progamma of Integrated Development Environment/Geïntegreerde ontwikkelomgeving laat jouw verschillende pogrameer bestanden hosten 
+
 
 &nbsp;
 
