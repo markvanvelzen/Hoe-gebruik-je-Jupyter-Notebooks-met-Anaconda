@@ -14,7 +14,7 @@ Met het programma Anaconda kun je omgevingen maken die je softwarepakketten kunn
 
 Jupyter-notebooks zijn een vorm van universeel delen van data science-concepten, waarmee je live code kunt delen.
 
-Visual studio code kan vele soorten coderingsbestanden beheren en kan worden gebruikt als gebruikersinterface, waardoor het praktischer in het gebruik is.
+Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt worden als gebruikersinterface, waardoor het praktischer in het gebruik is.
 
 &nbsp;
 
