@@ -121,13 +121,13 @@ Op de startpagina van Anaconda's software applicatie download je de volgende plu
 
 &nbsp;
 
-Ga naar bestand en klik op nieuw bestand.
+Ga naar bestand/file en klik op nieuw bestand/new file.
 
 ![alt text](image-9.png)
 
 &nbsp;
 
-Dit opent een prompt Selecteer Jupyter Notebook op.
+Dit opent een prompt Selecteer "Jupyter Notebook".
 
 ![alt text](image-10.png)
 
