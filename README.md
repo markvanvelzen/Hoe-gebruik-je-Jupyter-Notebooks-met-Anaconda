@@ -36,7 +36,7 @@ Hoofdstuk 2: Download Anaconda
 
 Hoofdstuk 3: Download Visual studio code
 
-Hoofdstuk 4: Een omgeving maken 
+Hoofdstuk 4: Een Omgeving/environment maken 
 
 Hoofdstuk 5: De benodigde plug-ins downloaden 
 
@@ -66,7 +66,7 @@ Hoofdstuk 9: Bekende installatieproblemen en hoe deze te debuggen
 
 ### (Anaconda) 
 
-Een progamma waar je paketjes kan toevoegen aan folders die jij aan maakt, deze folders kan jij vervolgens aan IDE's verbinden zoals Visual Studio code het is dan ook mogelijk om via de command prompt in Visual studio code pakketjes te downloaden in jouw Anaconda omgeving/environment.
+Een progamma waar je paketjes kan toevoegen aan folders die jij aan maakt, deze folders kan jij vervolgens aan IDE's verbinden zoals Visual Studio code het is dan ook mogelijk om via de command prompt in Visual studio code pakketjes te downloaden in jouw Anaconda Omgeving/Environment.
 
 <br><br>
 
@@ -178,7 +178,7 @@ Volg de instructies die Visual studio code geeft en verander de standaardaanbeve
 
 
 
-## Hoofdstuk 4: Een omgeving maken:
+## Hoofdstuk 4: Een Omgeving/Environment maken:
 
 <br><br>
 
@@ -188,7 +188,7 @@ Selecteer eerst het tabblad "Omgeving" / "Environment" en klik linksonder op "Ma
 
 <br><br><br><br>
 
-Vink aan "Python" als dat nog niet het geval is en geef de omgeving een passende naam. Als je klaar bent, klik je rechtsonder op "Maak" / "Create".
+Vink aan "Python" als dat nog niet het geval is en geef de Omgeving/Environment een passende naam. Als je klaar bent, klik je rechtsonder op "Maak" / "Create".
 
 ![alt text](image-5.png)
 
@@ -245,9 +245,9 @@ Dit opent een prompt Selecteer "Jupyter Notebook".
 
 <br><br><br><br>
 
-Als je je bestand wilt opslaan, doe je het volgende: 
+Als je je bestand/file wilt opslaan, doe je het volgende: 
 
-ga naar "Bestand" / "File" > "Opslaan als" / "Save as" > voer een naam en bestandslocatie naar keuze in.
+ga naar "Bestand" / "File" > "Opslaan als" / "Save as" > voer een naam in en geef bestandslocatie naar keuze.
 
 Als je opslaat moet het bestandstype .ipynb zijn, de computer hoort dit voor je doen als je alles na de punt weg laat.
 
@@ -273,7 +273,7 @@ gebruik de toetsen: ctrl > shift > P in Visual studio code typ dan "Python: Sele
 
 <br><br><br><br>
 
-Selecteer in de nieuwe prompt de omgeving/environment die je eerder hebt gemaakt.
+Selecteer in de nieuwe prompt de Omgeving/environment die je eerder hebt gemaakt.
 
 ![alt text](image-14.png)
 
