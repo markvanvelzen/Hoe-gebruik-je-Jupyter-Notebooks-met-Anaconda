@@ -38,13 +38,15 @@ Hoofdstuk 3: Download Visual studio code
 
 Hoofdstuk 4: Een omgeving maken 
 
-hoofdstuk 5: De benodigde plug-ins downloaden 
+Hoofdstuk 5: De benodigde plug-ins downloaden 
 
-hoofdstuk 6: Een Jupyter-notebookbestand maken in Visual studio code 
+Hoofdstuk 6: Een Jupyter-notebookbestand maken in Visual studio code 
 
-hoofdstuk 7: Aansluiten en testen 
+hoofdstuk 7: Aansluiten
 
-hoofdstuk 8: Bekende installatieproblemen en hoe te debuggen 
+hoofdstuk 8: Testen
+
+Hoofdstuk 9: Bekende installatieproblemen en hoe deze te debuggen 
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -74,9 +76,21 @@ Dit is een folder met een bepaalde naam die je maakt binenn de aplicatie Anacond
 
 <br><br>
 
-### (Visual studio code / IDE)
+### (Visual studio code)
 
-Een IDE progamma of Integrated Development Environment/Geïntegreerde ontwikkelomgeving laat jouw verschillende soorten programmeer bestanden zoals HTML, CSS, Python, Jupyter notebook bewerken via de user interface van 
+Visual studio code is een IDE progamma dus je kan via de user interface van Visual Studio werken aan een hoop type bestanden zoals Python en Jupyter Notebooks.
+
+<br><br>
+
+### (Een IDE) 
+
+Een IDE is een "Geïntegreerde ontwikkelomgeving" / "Integrated Development Environment" deze laat jouw verschillende soorten programmeer bestanden zoals HTML, CSS, Python, en Jupyter notebook gebruiken en bewerken hier kan je dan ook meteen je code testen.
+
+<br><br>
+
+### (Jupyter Notebooks) 
+
+Dit is een bestand type dat bedoelt is om makelijk data en code samen te kunnen delen, het heeft dan ook een functie om code te executeren.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -89,6 +103,7 @@ Een IDE progamma of Integrated Development Environment/Geïntegreerde ontwikkelo
 
 ## Hoofdstuk 2: Download Anaconda:
 (Belangrijk!) Download eerst Anaconda en installeer de software vanuit het gedownloade .exe-bestand, voordat je verder gaat met Visual studio code.
+Dit andersom doen kan problemen veroorzaken.
 
 <br><br>
 
@@ -167,13 +182,13 @@ Volg de instructies die Visual studio code geeft en verander de standaardaanbeve
 
 <br><br>
 
-Selecteer eerst het tabblad "Omgeving" en klik linksonder op "Maak" / "create".
+Selecteer eerst het tabblad "Omgeving" / "Environment" en klik linksonder op "Maak" / "Create".
 
 ![alt text](image-4.png)
 
 <br><br><br><br>
 
-Vink aan "Python" als dat nog niet het geval is en geef de omgeving een passende naam. Als je klaar bent, klik je rechtsonder op "maak" / "create".
+Vink aan "Python" als dat nog niet het geval is en geef de omgeving een passende naam. Als je klaar bent, klik je rechtsonder op "Maak" / "Create".
 
 ![alt text](image-5.png)
 
@@ -192,7 +207,7 @@ Vink aan "Python" als dat nog niet het geval is en geef de omgeving een passende
 
 <br><br>
 
-Voor Visual Studio code installeer je de "Python" en "jupyter" plug-ins.
+Voor Visual Studio code installeer je de "Python" en "Jupyter" plug-ins.
 
 Je vind ze linksboven door op het pictogram van de vier vierkantjes te klikken en de naam van de plug-in op te zoeken. Je hoeft alleen de hoofdplug-in te installeren, de rest wordt standaard geïnstalleerd.
 
@@ -200,7 +215,7 @@ Je vind ze linksboven door op het pictogram van de vier vierkantjes te klikken e
 
 <br><br><br><br>
 
-Op de "thuis"/"home" van "Anaconda's Navigator" applicatie download je de volgende plug-ins: "Jupyter Notebook", "Jupyter Lab" en "QT Console".
+Op de "Thuis"/"Home" van "Anaconda's Navigator" applicatie download je de volgende plug-ins: "Jupyter Notebook", "Jupyter Lab" en "QT Console".
 
 ![alt text](image-7.png)
 
@@ -248,15 +263,9 @@ Als je opslaat moet het bestandstype .ipynb zijn, de computer hoort dit voor je 
 
 
 
-## Hoofdstuk 7: Aansluiten en testen:
+## Hoofdstuk 7: Aansluiten:
 
 <br><br>
-
-Schrijf deze code als een functionaliteitstest.
-
-![alt text](image-12.png)
-
-<br><br><br><br>
 
 gebruik de toetsen: ctrl > shift > P in Visual studio code typ dan "Python: Selecteer Tolk" / "Python: Select Interperter":
 
@@ -267,6 +276,23 @@ gebruik de toetsen: ctrl > shift > P in Visual studio code typ dan "Python: Sele
 Selecteer in de nieuwe prompt de omgeving/environment die je eerder hebt gemaakt.
 
 ![alt text](image-14.png)
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+## Hoofdstuk 8: testen:
+
+<br><br>
+
+Schrijf deze code als een functionaliteitstest.
+
+![alt text](image-12.png)
 
 <br><br><br><br>
 
@@ -298,7 +324,8 @@ Als je verbonden bent met je omgeving/environment, zie je de omgeving/environmen
 
 
 
-## hoofdstuk 8: Bekende installatieproblemen en hoe te debuggen:
+
+## hoofdstuk 9: Bekende installatieproblemen en hoe deze te debuggen:
 
 <br><br>
 
