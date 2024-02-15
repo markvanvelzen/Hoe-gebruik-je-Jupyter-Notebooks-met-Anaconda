@@ -117,7 +117,7 @@ Klik op de download van het besturingssysteem van je laptop, zoals Windows.
 
 <br><br><br><br>
 
-Open jouw "file explorer"/ "Bestandsverkenner" links onderaan:
+Open jouw "Bestandsverkenner" / "file explorer" links onderaan:
 ![alt text](image-23.png)
 
 <br><br><br><br>
@@ -154,7 +154,7 @@ Klik op de download van het besturingssysteem van je laptop, zoals Windows.
 
 <br><br><br><br>
 
-Open jouw "file explorer" / "Bestandsverkenner" links onderaan:
+Open jouw "Bestandsverkenner" / "file explorer" links onderaan:
 ![alt text](image-23.png)
 
 <br><br><br><br>
