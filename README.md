@@ -30,23 +30,25 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt w
 
 ## Inhoudsopgave
 
-Hoofdstuk 1: Begrippenlijst:
+Hoofdstuk 1 basis: Begrippenlijst:
 
-Hoofdstuk 2: Download Anaconda
+Hoofdstuk 2 basis: Download Anaconda
 
-Hoofdstuk 3: Download Visual studio code
+Hoofdstuk 3 basis: Download Visual studio code
 
-Hoofdstuk 4: Een Omgeving/environment maken 
+Hoofdstuk 4 basis: Een Omgeving/environment maken 
 
-Hoofdstuk 5: De benodigde plug-ins downloaden 
+Hoofdstuk 5 basis: De benodigde plug-ins downloaden 
 
-Hoofdstuk 6: Een Jupyter-notebookbestand maken in Visual studio code 
+Hoofdstuk 6 basis: Een Jupyter-notebookbestand maken in Visual studio code 
 
-hoofdstuk 7: Aansluiten
+hoofdstuk 7 basis: Aansluiten
 
-hoofdstuk 8: Testen
+hoofdstuk 8 basis: Testen
 
-Hoofdstuk 9: Bekende installatieproblemen en hoe deze te debuggen 
+Hoofdstuk 9 basis: Bekende installatieproblemen en hoe deze te debuggen 
+
+Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -56,7 +58,7 @@ Hoofdstuk 9: Bekende installatieproblemen en hoe deze te debuggen
 
 
 
-## Hoofdstuk 1: Begrippenlijst:
+## Hoofdstuk 1 basis: Begrippenlijst:
 
 <br><br>
 
@@ -101,7 +103,7 @@ Dit is een bestand type dat bedoelt is om makelijk data en code samen te kunnen 
 
 
 
-## Hoofdstuk 2: Download Anaconda:
+## Hoofdstuk 2 basis: Download Anaconda:
 (Belangrijk!) Download eerst Anaconda en installeer de software vanuit het gedownloade .exe-bestand, voordat je verder gaat met Visual studio code.
 Dit andersom doen kan problemen veroorzaken.
 
@@ -142,7 +144,7 @@ Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen nie
 
 
 
-## Hoofdstuk 3: Download Visual studio code:
+## Hoofdstuk 3 basis: Download Visual studio code:
 
 ### Visual studio code download: https://code.visualstudio.com/download
 
@@ -178,7 +180,7 @@ Volg de instructies die Visual studio code geeft en verander de standaardaanbeve
 
 
 
-## Hoofdstuk 4: Een Omgeving/Environment maken:
+## Hoofdstuk 4 basis: Een Omgeving/Environment maken:
 
 <br><br>
 
@@ -203,7 +205,7 @@ Vink aan "Python" als dat nog niet het geval is en geef de Omgeving/Environment 
 
 
 
-## Hoofdstuk 5: De benodigde plug-ins downloaden:
+## Hoofdstuk 5 basis: De benodigde plug-ins downloaden:
 
 <br><br>
 
@@ -229,7 +231,7 @@ Op de "Thuis"/"Home" van "Anaconda's Navigator" applicatie download je de volgen
 
 
 
-## Hoofdstuk 6: Een Jupyter-notebookbestand maken in Visual studio code:
+## Hoofdstuk 6 basis: Een Jupyter-notebookbestand maken in Visual studio code:
 
 &nbsp;
 
@@ -263,7 +265,7 @@ Als je opslaat moet het bestandstype .ipynb zijn, de computer hoort dit voor je 
 
 
 
-## Hoofdstuk 7: Aansluiten:
+## Hoofdstuk 7 basis: Aansluiten:
 
 <br><br>
 
@@ -277,6 +279,18 @@ Selecteer in de nieuwe prompt de Omgeving/environment die je eerder hebt gemaakt
 
 ![alt text](image-14.png)
 
+<br><br><br><br>
+
+Gebruik de toetsen: ctrl > shift > P in Visual studio code typ dan "Terminal: Selecteer Standaard Profiel" / "Terminal: Select Default Profile"
+
+![alt text](image-24.png)
+
+<br><br><br><br>
+
+Selecteer de "Command prompt" optie.
+
+![alt text](image-25.png)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -286,7 +300,7 @@ Selecteer in de nieuwe prompt de Omgeving/environment die je eerder hebt gemaakt
 
 
 
-## Hoofdstuk 8: testen:
+## Hoofdstuk 8 basis: testen:
 
 <br><br>
 
@@ -314,6 +328,18 @@ Als je verbonden bent met je omgeving/environment, zie je de omgeving/environmen
 
 ![alt text](image-17.png)
 
+<br><br><br><br>
+
+Je kan nu jouw "Command Prompt" Terminal testen door "conda" te typen en daarna enter te clicken:
+
+![alt text](image-26.png)
+
+<br><br><br><br>
+
+Als je dit goed gedaan hebt leest de Terminal informatie uit over het programma van Anaconda zoals hier:
+
+![alt text](image-27.png)
+
 <br><br><br><br><br><br><br><br><br><br>
 
 
@@ -325,7 +351,7 @@ Als je verbonden bent met je omgeving/environment, zie je de omgeving/environmen
 
 
 
-## hoofdstuk 9: Bekende installatieproblemen en hoe deze te debuggen:
+## hoofdstuk 9 basis: Bekende installatieproblemen en hoe deze te debuggen:
 
 <br><br>
 
@@ -364,4 +390,26 @@ Selecteer nu jouw omgeving.
 
 ![alt text](image-21.png)
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+## Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
+
+<br><br>
+
+Vind de "Scripts" folder in de "anaconda3" folder het zou de zelfde pad / path moeten hebben, het doorkruisde deel is de "user" die jij gebruikt.
+
+![alt text](image-28.png)
+
+<br><br><br><br>
+
+Klik nu rechtermuisknop op de "Scripts" folder naam van het vorige plaatje, en selecteer "Kopieer Address als tekst" / Copy Address as text.
+
+![alt text](image-29.png)
+
