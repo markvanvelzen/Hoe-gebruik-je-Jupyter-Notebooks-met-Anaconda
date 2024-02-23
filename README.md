@@ -473,8 +473,8 @@ En de op de "oke" van "Systeem Eigenschappen" / "System properties" van eerder.
 
 <br><br><br><br>
 
-Zoek op "Powershell prompt" in de search bar links onder op je computer.
+Zoek op "Windows Powershell" in de search bar links onder op je computer.
 
-Klik nu rechtermuisknop op de "Anaconda Powershell Prompt" en selecteer "Uitvoeren als administrator" / "Run as administrator"
+Klik nu rechtermuisknop op de "Windows Powershell" en selecteer "Uitvoeren als administrator" / "Run as administrator"
 
 ![alt text](image-39.png)
