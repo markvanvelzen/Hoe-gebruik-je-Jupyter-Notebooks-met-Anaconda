@@ -527,7 +527,7 @@ Selecteer nu de "Powershell" optie.
 
 <br><br><br><br>
 
-Typ nu Conda in de Powershell terminal.
+Typ nu "Conda" in de Powershell terminal.
 
 ![alt text](image-48.png)
 
