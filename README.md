@@ -413,3 +413,68 @@ Klik nu rechtermuisknop op de "Scripts" folder naam van het vorige plaatje, en s
 
 ![alt text](image-29.png)
 
+<br><br><br><br>
+
+Hou eerst je vinger op de Windows knop, vervolgens druk op de R knop zonder los te laten van de Windows knop.
+
+Als het goed is zie je nu dit scherm links onderaan:
+
+![alt text](image-30.png)
+
+<br><br><br><br>
+
+Typ in de prompt het volgende "sysdm.cpl" en klik op Oke links onderaan de prompt.
+
+![alt text](image-31.png)
+
+<br><br><br><br>
+
+Een nieuwe prompt opened selecteer bovenaan "Geavanceerd" / "Advanced" en click onderaan "Omgeving Variabelen" / "Environment Variables"
+
+![alt text](image-32.png)
+
+<br><br><br><br>
+
+Selecteer bij de "Systeem Variabelen" / "System Variables" de "Pad" / "Path" 
+
+Selecteer vervolgens "Edit..." / "Bewerken..." rechts onderaan.
+
+![alt text](image-34.png)
+
+<br><br><br><br>
+
+Selecteer in de nieuw prompt "Nieuw" / "New" 
+
+![alt text](image-33.png)
+
+<br><br><br><br>
+
+Druk nu de knoppen:  ctrl > V  om het "Pad" / "Path" van eerder daar neer te plakken.
+
+![alt text](image-35.png)
+
+<br><br><br><br>
+
+Klik nu op de "oke" rechts onder.
+
+![alt text](image-36.png)
+
+<br><br><br><br>
+
+Doe het zelfde met de "oke" op de "Omgeving Variabelen" / "Environment Variables" van eerder.
+
+![alt text](image-37.png)
+
+<br><br><br><br>
+
+En de op de "oke" van "Systeem Eigenschappen" / "System properties" van eerder.
+
+![alt text](image-38.png)
+
+<br><br><br><br>
+
+Zoek op "Powershell prompt" in de search bar links onder op je computer.
+
+Klik nu rechtermuisknop op de "Anaconda Powershell Prompt" en selecteer "Uitvoeren als administrator" / "Run as administrator"
+
+![alt text](image-39.png)
