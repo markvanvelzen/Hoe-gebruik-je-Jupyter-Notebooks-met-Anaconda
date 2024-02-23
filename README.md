@@ -482,3 +482,22 @@ Zoek op "Windows Powershell" in de search bar links onder op je computer.
 Klik nu rechtermuisknop op de "Windows Powershell" en selecteer "Uitvoeren als administrator" / "Run as administrator"
 
 ![alt text](image-39.png)
+
+<br><br><br><br>
+
+Schrijf in de Windows Powershell prompt "Set-ExecutionPolicy RemoteSigned" en klik "Enter" op je toetsenbord.
+
+![alt text](image-41.png)
+
+<br><br><br><br>
+
+Nu vraagt het of je deze verandering wilt maken typ "Y" en druk "Enter" op je toetsen board om veder te gaan.
+
+![alt text](image-42.png)
+
+<br><br><br><br>
+
+Je kan nu de prompt sluiten door op het kruisje te klikken.
+
+![alt text](image-43.png)
+
