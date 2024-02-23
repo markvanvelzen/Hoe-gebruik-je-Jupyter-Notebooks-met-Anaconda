@@ -491,7 +491,7 @@ Schrijf in de Windows Powershell prompt "Set-ExecutionPolicy RemoteSigned" en kl
 
 <br><br><br><br>
 
-Nu vraagt het of je deze verandering wilt maken typ "Y" en druk "Enter" op je toetsen board om veder te gaan.
+Nu vraagt het of je deze verandering wilt maken typ Hoofdletter "Y" en druk "Enter" op je toetsen board om veder te gaan.
 
 ![alt text](image-42.png)
 
@@ -500,4 +500,18 @@ Nu vraagt het of je deze verandering wilt maken typ "Y" en druk "Enter" op je to
 Je kan nu de prompt sluiten door op het kruisje te klikken.
 
 ![alt text](image-43.png)
+
+<br><br><br><br>
+
+sluit je Visual Studio Code af, druk rechtermuisknop op de Visual Studio Code icoon en selecteer "Sluit venster" / "Close window" 
+
+![alt text](image-44.png)
+
+<br><br><br><br>
+
+Ga naar de search bar links onder en typ "visual studio code" en dubble klik het icoon boven aan van Visual Studio Code 
+
+![alt text](image-45.png)
+
+<br><br><br><br>
 
