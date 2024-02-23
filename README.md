@@ -515,3 +515,24 @@ Ga naar de search bar links onder en typ "visual studio code" en dubble klik het
 
 <br><br><br><br>
 
+Selecteer "Terminal" onderaan en klik op de pijl omlaag naast de plus teken.
+
+![alt text](image-46.png)
+
+<br><br><br><br>
+
+Selecteer nu de "Powershell" optie.
+
+![alt text](image-47.png)
+
+<br><br><br><br>
+
+Typ nu Conda in de Powershell terminal.
+
+![alt text](image-48.png)
+
+<br><br><br><br>
+
+Als je nu dit te zien krijgt in jouw Poweshell terminal dan werkt de Powershell terminal.
+
+![alt text](image-49.png)
