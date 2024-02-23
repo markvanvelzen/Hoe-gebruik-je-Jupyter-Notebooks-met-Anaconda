@@ -475,6 +475,10 @@ En de op de "oke" van "Systeem Eigenschappen" / "System properties" van eerder.
 
 Zoek op "Windows Powershell" in de search bar links onder op je computer.
 
+![alt text](image-40.png)
+
+<br><br><br><br>
+
 Klik nu rechtermuisknop op de "Windows Powershell" en selecteer "Uitvoeren als administrator" / "Run as administrator"
 
 ![alt text](image-39.png)
