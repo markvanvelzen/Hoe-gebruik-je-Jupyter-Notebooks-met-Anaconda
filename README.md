@@ -30,7 +30,7 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt w
 
 ## Inhoudsopgave
 
-Hoofdstuk 1 basis: {Begrippenlijst}(#begrippenlijst)
+[Hoofdstuk 1 basis]: Begrippenlijst (#h1)
 
 Hoofdstuk 2 basis: Download Anaconda
 
@@ -54,11 +54,13 @@ Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
 
 
 
+# h1
+
+fghgghfhfhgfghfhgfhgfhgfgh
 
 
 
-
-## Hoofdstuk 1 basis: Begrippenlijst:
+## Hoofdstuk 1 basis: Begrippenlijst: 
 
 <br><br>
 
