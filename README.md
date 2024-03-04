@@ -30,37 +30,37 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt w
 
 ## Inhoudsopgave
 
-[Hoofdstuk 1 basis]: Begrippenlijst (#h1)
+[Hoofdstuk 1 basis: Begrippenlijst](#h1)
 
-Hoofdstuk 2 basis: Download Anaconda
+[Hoofdstuk 2 basis: Download Anaconda](#h2)
 
-Hoofdstuk 3 basis: Download Visual studio code
+[Hoofdstuk 3 basis: Download Visual studio code](#h3)
 
-Hoofdstuk 4 basis: Een Omgeving/environment maken 
+[Hoofdstuk 4 basis: Een Omgeving/environment maken](#h4)
 
-Hoofdstuk 5 basis: De benodigde plug-ins downloaden 
+[Hoofdstuk 5 basis: De benodigde plug-ins downloaden](#h5)
 
-Hoofdstuk 6 basis: Een Jupyter-notebookbestand maken in Visual studio code 
+[Hoofdstuk 6 basis: Een Jupyter-notebookbestand maken in Visual studio code](#h6)
 
-hoofdstuk 7 basis: Aansluiten
+[hoofdstuk 7 basis: Aansluiten](#h7)
 
-hoofdstuk 8 basis: Testen
+[hoofdstuk 8 basis: Testen](#h8)
 
-Hoofdstuk 9 basis: Bekende installatieproblemen en hoe deze te debuggen 
+[Hoofdstuk 9 basis: Bekende installatieproblemen en hoe deze te debuggen](#h9)
 
-Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
+[Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal](#h10)
 
 <br><br><br><br><br><br><br><br><br><br>
 
 
 
+
+
+
+
+## Hoofdstuk 1 basis: Begrippenlijst 
+
 # h1
-
-fghgghfhfhgfghfhgfhgfhgfgh
-
-
-
-## Hoofdstuk 1 basis: Begrippenlijst: 
 
 <br><br>
 
@@ -103,9 +103,10 @@ Dit is een bestand type dat bedoelt is om makkelijk data en code samen te kunnen
 
 
 
-
-
 ## Hoofdstuk 2 basis: Download Anaconda:
+
+# h2
+
 (Belangrijk!) Download eerst Anaconda en installeer de software vanuit het gedownloade .exe-bestand, voordat je verder gaat met Visual studio code.
 Dit andersom doen kan problemen veroorzaken.
 
@@ -148,6 +149,8 @@ Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen nie
 
 ## Hoofdstuk 3 basis: Download Visual studio code:
 
+# h3
+
 ### Visual studio code download: https://code.visualstudio.com/download
 
 <br>
@@ -184,6 +187,8 @@ Volg de instructies die Visual studio code geeft en verander de standaardaanbeve
 
 ## Hoofdstuk 4 basis: Een Omgeving/Environment maken:
 
+# h4
+
 <br><br>
 
 Selecteer eerst het tabblad "Omgeving" / "Environment" en klik linksonder op "Maak" / "Create".
@@ -208,6 +213,8 @@ Vink aan "Python" als dat nog niet het geval is en geef de Omgeving/Environment 
 
 
 ## Hoofdstuk 5 basis: De benodigde plug-ins downloaden:
+
+# h5
 
 <br><br>
 
@@ -234,6 +241,8 @@ Op de "Thuis"/"Home" van "Anaconda's Navigator" applicatie download je de volgen
 
 
 ## Hoofdstuk 6 basis: Een Jupyter-notebookbestand maken in Visual studio code:
+
+# h6
 
 &nbsp;
 
@@ -269,6 +278,8 @@ Als je opslaat moet het bestandstype .ipynb zijn, de computer hoort dit voor je 
 
 ## Hoofdstuk 7 basis: Aansluiten:
 
+# h7
+
 <br><br>
 
 gebruik de toetsen: ctrl > shift > P in Visual studio code typ dan "Python: Selecteer Tolk" / "Python: Select Interperter":
@@ -303,6 +314,8 @@ Selecteer de "Command prompt" optie.
 
 
 ## Hoofdstuk 8 basis: testen:
+
+# h8
 
 <br><br>
 
@@ -355,6 +368,8 @@ Als je dit goed gedaan hebt leest de Terminal informatie uit over het programma 
 
 ## hoofdstuk 9 basis: Bekende installatieproblemen en hoe deze te debuggen:
 
+# h9
+
 <br><br>
 
 ### Probleem 1: 
@@ -402,6 +417,8 @@ Selecteer nu jouw omgeving.
 
 
 ## Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
+
+# h10
 
 <br><br>
 
