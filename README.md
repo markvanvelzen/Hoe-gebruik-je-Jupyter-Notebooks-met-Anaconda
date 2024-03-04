@@ -1,6 +1,6 @@
 # Hoe gebruik je Jupyter Notebooks met Anaconda?
 
-Hier wordt uitgelegt hoe je Jupyter Notebooks gebruikt in de IDE van Visual studio code en hoe je deze linkt aan een omgeving/environment van Anaconda.
+Hier wordt uitgelegd hoe je Jupyter Notebooks gebruikt in de IDE van Visual studio code en hoe je deze linkt aan een omgeving/environment van Anaconda.
 
 
 <br><br>
@@ -68,19 +68,19 @@ Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
 
 ### (Anaconda) 
 
-Een progamma waar je paketjes kan toevoegen aan folders die jij aan maakt, deze folders kan jij vervolgens aan IDE's verbinden zoals Visual Studio code het is dan ook mogelijk om via de command prompt in Visual studio code pakketjes te downloaden in jouw Anaconda Omgeving/Environment.
+Een programma waar je pakketjes kan toevoegen aan folders die jij aan maakt, deze folders kan jij vervolgens aan IDE's verbinden zoals Visual Studio code het is dan ook mogelijk om via de command prompt in Visual studio code pakketjes te downloaden in jouw Anaconda Omgeving/Environment.
 
 <br><br>
 
 ### (Een Anaconda omgeving/environment) 
 
-Dit is een folder met een bepaalde naam die je maakt binenn de aplicatie Anaconda, Anaconda vult jouw folder met was basis paketjes van code zoals Python en Pip wanneer jouw jouw IDE de paketjes nodig heeft kan die ze lenen van Anaconda's folder.
+Dit is een folder met een bepaalde naam die je maakt bine de applicatie Anaconda, Anaconda vult jouw folder met was basis pakketjes van code zoals Python en Pip wanneer jouw jouw IDE de pakketjes nodig heeft kan die ze lenen van Anaconda's folder.
 
 <br><br>
 
 ### (Visual studio code)
 
-Visual studio code is een IDE progamma dus je kan via de user interface van Visual Studio werken aan een hoop type bestanden zoals Python en Jupyter Notebooks.
+Visual studio code is een IDE programma dus je kan via de user interface van Visual Studio werken aan een hoop type bestanden zoals Python en Jupyter Notebooks.
 
 <br><br>
 
@@ -92,7 +92,7 @@ Een IDE is een "Geïntegreerde ontwikkelomgeving" / "Integrated Development Envi
 
 ### (Jupyter Notebooks) 
 
-Dit is een bestand type dat bedoelt is om makelijk data en code samen te kunnen delen, het heeft dan ook een functie om code te executeren.
+Dit is een bestand type dat bedoelt is om makkelijk data en code samen te kunnen delen, het heeft dan ook een functie om code te executeren.
 
 <br><br><br><br><br><br><br><br><br><br>
 
@@ -318,19 +318,19 @@ Als je geen terminal open hebt staan, kun je een terminal openen door linksboven
 
 <br><br><br><br>
 
-Nu kun je de juiste opdrachtprompt openen via de rechteronderkant door over het pijltje naast de + te gaan en op "Opdrachtprompt" / "Command prompt" te klikken.
+Nu kun je de juiste opdracht prompt openen via de rechtenrondekrant door over het pijltje naast de + te gaan en op "Opdracht prompt" / "Command prompt" te klikken.
 
 ![alt text](image-16.png)
 
 <br><br><br><br>
 
-Als je verbonden bent met je omgeving/environment, zie je de omgeving/environment naam links onderaan in de opdrachtprompt, gevolgd door de pathing naar de bestanden.
+Als je verbonden bent met je omgeving/environment, zie je de omgeving/environment naam links onderaan in de opdracht prompt, gevolgd door de pathing naar de bestanden.
 
 ![alt text](image-17.png)
 
 <br><br><br><br>
 
-Je kan nu jouw "Command Prompt" Terminal testen door "conda" te typen en daarna enter te clicken:
+Je kan nu jouw "Command Prompt" Terminal testen door "conda" te typen en daarna enter te klikken:
 
 ![alt text](image-26.png)
 
