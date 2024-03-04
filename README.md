@@ -30,7 +30,7 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt w
 
 ## Inhoudsopgave
 
-Hoofdstuk 1 basis: {Begrippenlijst}(##begrippenlijst)
+Hoofdstuk 1 basis: {Begrippenlijst}(#begrippenlijst)
 
 Hoofdstuk 2 basis: Download Anaconda
 
