@@ -129,9 +129,10 @@ Zoek vervolgens de gedownloade set-up in kwestie die in jouw "Downloads" folder 
 
 <br><br><br><br>
 
-Volg de instructies die Anaconda geeft en verander de standaardaanbevelingen niet, de standaardinstellingen zijn voorlopig goed.
+Volg de instructies die Anaconda en zorg dat deze 3 vinkjes aan staan.
 
 ![alt text](images/image-8.png)
+
 
 <br><br><br><br><br><br><br><br><br><br>
 
