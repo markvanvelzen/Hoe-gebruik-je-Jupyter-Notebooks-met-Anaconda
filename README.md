@@ -28,6 +28,30 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt w
 
 
 
+
+
+
+
+
+
+
+## Sources:
+
+<br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Inhoudsopgave
 
 [Hoofdstuk 1 basis: Begrippenlijst](#hoofdstuk-1-basis-begrippenlijst)
@@ -51,6 +75,12 @@ Visual studio code kan vele soorten coderingsbestanden beheren en kan gebruikt w
 [Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal](#hoofdstuk-10-geavanceerd-hoe-kan-je-powershell-gebruiken-als-terminal)
 
 <br><br><br><br><br><br><br><br><br><br>
+
+
+
+
+
+
 
 
 
@@ -374,7 +404,7 @@ Soms toont de terminal je omgeving/environment niet op deze manier:
 
 In dit geval moet de Kernel worden gewijzigd naar jouw omgeving/environment, om de terminal aan je omgeving/environment te koppelen.
 
-Ga met de muis over "selecteer kernel" / "select kernel" en klik op "Selecteer een andere kernel..." / "select Another Kernel...".
+Ga met de muis over "selecteer kernel" / "select kernel" en klik op "Selecteer een andere kernel..." / "Select Another Kernel...".
 
 ![alt text](images/image-19.png)
 
@@ -403,7 +433,7 @@ Selecteer nu jouw omgeving.
 
 <br><br>
 
-je kan deze stap skippen als je deze hebt aangevinkt in stap twee.
+Je kan deze stap skippen als je deze hebt aangevinkt in stap twee.
 
 ![alt text](images/image-50.png)
 
