@@ -131,7 +131,7 @@ Zoek vervolgens de gedownloade set-up in kwestie die in jouw "Downloads" folder 
 
 Volg de instructies die Anaconda en zorg dat deze 3 vinkjes aan staan.
 
-![alt text](images/image-8.png)
+![alt text](images/image-50.png)
 
 
 <br><br><br><br><br><br><br><br><br><br>
@@ -402,6 +402,12 @@ Selecteer nu jouw omgeving.
 ## Hoofdstuk 10 geavanceerd: Hoe kan je Powershell gebruiken als Terminal
 
 <br><br>
+
+je kan deze stap skippen als je deze hebt aangevinkt in stap twee.
+
+![alt text](images/image-50.png)
+
+<br><br><br><br>
 
 Vind de "Scripts" folder in de "anaconda3" folder het zou de zelfde pad / path moeten hebben, het doorkruiste deel is de "user" die jij gebruikt.
 
