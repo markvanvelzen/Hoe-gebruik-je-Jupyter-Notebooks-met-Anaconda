@@ -1,6 +1,14 @@
-# Hoe gebruik je Jupyter Notebooks met Anaconda?
+# werken met Jupyter Notebooks, Anaconda & Visual Studio Code?
 
-Hier wordt uitgelegd hoe je Jupyter Notebooks gebruikt in de IDE van Visual studio code en hoe je deze linkt aan een omgeving/environment van Anaconda.
+Om datascience projecten uit te kunnen voeren werkt het Datalab HR Healthcare met Jupyter Notebooks, Anaconda en Visual Studio code.
+Deze gebruikershandeling beschrijft eerst…………..
+Vervolgens wordt uitgelegd…………….
+Tenslotte wordt beschreven hoe Jupyter Notebooks via Visual Studio Code wordt gebruikt.
+ 
+Om Jupyter Notebooks in Visual Studio Code goed te kunnen gebruiken moet eerst in Aanconda een environment worden aangemaakt.
+Een Anaconda environment dient om…………………….. zodat Jupyter Notebooks te kunnen gebruiken
+Etc etc.
+
 
 
 <br><br>
